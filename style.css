@@ -11,10 +11,10 @@ a {
 }
 
 responsive {
-  width: 100px;
+  max-width: 100px;
   height: auto;
   padding-left: 10px; 
-  padding-top: 30px;
+  padding-top: 70px;
 }
 
 #block {
