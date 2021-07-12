@@ -28,6 +28,6 @@ a {
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: "inter";
-  font-size: 2rem;
+  font-size: 3rem;
   white-space: nowrap;
 }
