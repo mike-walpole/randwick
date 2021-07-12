@@ -10,6 +10,14 @@ a {
   color: #fff;
 }
 
+responsive {
+  width: 25%;
+  max-width: 300px;
+  height: auto;
+  padding-left: 20px; 
+  padding-top: 30px;
+}
+
 #block {
   position: absolute;
   top: 50%;
