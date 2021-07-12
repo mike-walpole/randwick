@@ -8,9 +8,10 @@ var Messenger = function(el){
     m.current_length = 0;
     m.fadeBuffer = false;
     m.messages = [
-      'Professional sports traders ',
-      'Global sports and racing betting',
+      'Professional sports & racing traders ',
+      'Global betting markets',
       'Smart human-machine teams',
+      'Millionaires factory',
       "We're hiring", 
       
     ];
