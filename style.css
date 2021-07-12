@@ -11,8 +11,7 @@ a {
 }
 
 responsive {
-  width: 25%;
-  max-width: 150px;
+  width: 100px;
   height: auto;
   padding-left: 10px; 
   padding-top: 30px;
