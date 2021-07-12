@@ -8,8 +8,11 @@ var Messenger = function(el){
     m.current_length = 0;
     m.fadeBuffer = false;
     m.messages = [
-      'Professional sport traders ',
-      "We're hiring"
+      'Professional sports traders ',
+      'Global sports and racing betting',
+      'Smart human-machine teams',
+      "We're hiring", 
+      
     ];
     
     setTimeout(m.animateIn, 100);
